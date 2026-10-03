@@ -44,7 +44,7 @@ I also learned to show more and describe less. The prototypes were screenshots u
 
 The report describes three review tools I built on my own time, a change order reviewer, a pay application reviewer, and a schedule risk analyzer. Each uses the same split. AI interprets the document, code checks the math and the rules, and the project manager decides.
 
-The video above shows all three running on test documents. The code and the test documents live in their own repo. [Link once it exists.]
+The video above shows all three running on test documents. The test documents and the reviews each tool produced are in the prototypes repo.
 
 ## What this is and is not
 
