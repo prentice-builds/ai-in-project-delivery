@@ -44,7 +44,7 @@ I also learned to show more and describe less. The prototypes were screenshots u
 
 The report describes three review tools I built on my own time, a change order reviewer, a pay application reviewer, and a schedule risk analyzer. Each uses the same split. AI interprets the document, code checks the math and the rules, and the project manager decides.
 
-The video above shows all three running on test documents. The test documents and the reviews each tool produced are in the prototypes repo.
+The video above shows all three running on test documents. The test documents and the reviews each tool produced are in the [prototypes repo](https://github.com/prentice-builds/construction-review-prototypes).
 
 ## What this is and is not
 
