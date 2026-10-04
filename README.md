@@ -1,8 +1,10 @@
 # Where AI belongs in construction project delivery
 
-A point of view on where AI fits in a project manager's week, written by an owner's rep who builds with AI. September 2026.
+A point of view on where AI fits in a project manager's week, written by an owner's rep who builds with AI. October 2026.
 
 **[Read the report](AI-in-project-delivery-Ryan-Prentice.pdf)** (PDF, twelve pages)
+
+**[Read the one-page summary](one-page-summary.pdf)** (PDF, one page)
 
 **[Watch the three tools run](https://www.loom.com/share/94bb247a7c564c8a9e077a4932b79a31)** (video walkthrough)
 
@@ -10,9 +12,9 @@ A point of view on where AI fits in a project manager's week, written by an owne
 
 By my estimate, roughly three quarters of a project manager's week goes to administrative load. The work that decides whether a project succeeds, managing risk and the relationships around it, competes with that load for the same hours.
 
-Most of the conversation about AI in delivery happens above the project team. When a tool does arrive it usually comes as a license and a login, with little direction on what it is for. Project managers are not resistant. Nobody has told them which work AI does, which work it helps with, and which work stays with them.
+The largest contractors and their software platforms have already moved. The owner's side is only beginning to. On most project teams, a tool still arrives as a license and a login, with little direction on what it is for. Project managers are not resistant. Most have not been told which work AI does, which work it helps with, and which work stays with them.
 
-## The argument
+## The approach
 
 AI belongs first in the work that prepares a decision. It drafts the status report, reconciles the cost report, and reviews a change order or pay application against the contract before the project manager picks it up.
 
@@ -45,6 +47,30 @@ I also learned to show more and describe less. The prototypes were screenshots u
 The report describes three review tools I built on my own time, a change order reviewer, a pay application reviewer, and a schedule risk analyzer. Each uses the same split. AI interprets the document, code checks the math and the rules, and the project manager decides.
 
 The video above shows all three running on test documents. The test documents and the reviews each tool produced are in the [prototypes repo](https://github.com/prentice-builds/construction-review-prototypes).
+
+## Companion pieces
+
+The report makes claims a team can test. These pieces let them do it.
+
+| Piece | What it does |
+|---|---|
+| [Baseline your week](https://claude.ai/artifact/Un6sxih7bP8fUprDHs3EJq) | Logs a typical week and a reporting week, and shows how much is administrative load |
+| [Capacity calculator](https://claude.ai/artifact/3kkHsaKmngCA26jqAtZZLN) | Turns team size and administrative share into dollars, people, and hours, with the opportunity landscape from Appendix A |
+| [Pilot scorecard](https://claude.ai/artifact/GS1i7FXe5ZEVdUXuDDYpVS) | Holds one pilot to a bar set before it starts |
+| [AI rollout plan](https://claude.ai/artifact/BgXYxQCKMjWMPvq5yr2tK2) | The first eighteen months, with a test to pass at every stage |
+| [The AI role](https://claude.ai/artifact/VGLZJ6imGF57ozjwABB9SB) | What the person accountable for this work does, and how a firm knows it is working |
+| [Fair questions](https://claude.ai/artifact/KRfxbypzjG7SsGXRAWCBZD) | Thirteen questions an executive would ask, each answered |
+| [Research agent](https://github.com/prentice-builds/ai-delivery-research-agent) | Tracks where AI in project delivery stands, and checks its own sources |
+
+## Sources for the examples
+
+The report describes what large contractors and software platforms have done without naming them. These are the reports behind those statements.
+
+| Statement | Source |
+|---|---|
+| The largest contractors have moved, and their people are building their own agents | Construction Dive, November 2025. ENR, October and November 2025 |
+| Agents that run when a document arrives are on the market | A platform vendor's own announcement, July 2026 |
+| Others describe the same destination | McKinsey, How AI is reshaping the future of the AEC industry, July 2026 |
 
 ## What this is and is not
 
