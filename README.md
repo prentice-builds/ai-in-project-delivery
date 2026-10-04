@@ -54,12 +54,12 @@ The report makes claims a team can test. These pieces let them do it.
 
 | Piece | What it does |
 |---|---|
-| [Baseline your week](https://claude.ai/artifact/Un6sxih7bP8fUprDHs3EJq) | Logs a typical week and a reporting week, and shows how much is administrative load |
-| [Capacity calculator](https://claude.ai/artifact/3kkHsaKmngCA26jqAtZZLN) | Turns team size and administrative share into dollars, people, and hours, with the opportunity landscape from Appendix A |
-| [Pilot scorecard](https://claude.ai/artifact/GS1i7FXe5ZEVdUXuDDYpVS) | Holds one pilot to a bar set before it starts |
-| [AI rollout plan](https://claude.ai/artifact/BgXYxQCKMjWMPvq5yr2tK2) | The first eighteen months, with a test to pass at every stage |
-| [The AI role](https://claude.ai/artifact/VGLZJ6imGF57ozjwABB9SB) | What the person accountable for this work does, and how a firm knows it is working |
-| [Fair questions](https://claude.ai/artifact/KRfxbypzjG7SsGXRAWCBZD) | Thirteen questions an executive would ask, each answered |
+| [Baseline your week](https://prentice-builds.github.io/baseline-week.html) | Logs a typical week and a reporting week, and shows how much is administrative load |
+| [Capacity calculator](https://prentice-builds.github.io/capacity-calculator.html) | Turns team size and administrative share into dollars, people, and hours, with the opportunity landscape from Appendix A |
+| [Pilot scorecard](https://prentice-builds.github.io/pilot-scorecard.html) | Holds one pilot to a bar set before it starts |
+| [AI rollout plan](https://prentice-builds.github.io/ai-rollout-plan.html) | The first eighteen months, with a test to pass at every stage |
+| [The AI role](https://prentice-builds.github.io/ai-role.html) | What the person accountable for this work does, and how a firm knows it is working |
+| [Fair questions](https://prentice-builds.github.io/fair-questions.html) | Thirteen questions an executive would ask, each answered |
 | [Research agent](https://github.com/prentice-builds/ai-delivery-research-agent) | Tracks where AI in project delivery stands, and checks its own sources |
 
 ## Sources for the examples
